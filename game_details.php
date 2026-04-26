@@ -12,7 +12,7 @@ mysqli_stmt_execute($stmt);
 $game = mysqli_fetch_assoc(mysqli_stmt_get_result($stmt));
 ?>
 
-<div class="card">
+<div class="card review-card">
     <h2>KU vs <?php echo $game["opponent"]; ?></h2>
     <p>Date: <?php echo $game["gameDate"]; ?></p>
     <p>Location: <?php echo $game["location"]; ?></p>
