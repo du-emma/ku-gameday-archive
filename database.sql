@@ -91,7 +91,7 @@ INSERT INTO PlayerStats (gameID, playerID, points, rebounds, assists, steals, bl
 (1, 6, 2, 2, 0, 0, 1, 18),     
 (1, 7, 2, 1, 0, 0, 0, 7),    
 (1, 8, 0, 0, 0, 0, 0, 3),    
-(1, 9, 0, 0, 0, 0, 0, 1);     
+(1, 9, 0, 0, 0, 0, 0, 1),     
 
 
 (2, 1, 19, 12, 1, 0, 1, 33),
